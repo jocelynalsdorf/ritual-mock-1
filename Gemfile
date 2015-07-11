@@ -13,6 +13,7 @@ gem 'pry'
 gem 'bcrypt-ruby', '~> 3.1.5', require: "bcrypt"
 gem 'devise', '~> 3.4.1'
 gem 'rails_12factor'
+gem 'simple_form'
 
 
 group :development do
